@@ -1,0 +1,6 @@
+
+h1 ansible_port=10004 ansible_host=10.36.222.1
+
+[group]
+h1
+
